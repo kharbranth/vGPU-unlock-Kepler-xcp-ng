@@ -1,0 +1,7 @@
+#+TITLE: README
+
+* Removed
+
+Unfortunately, I am removing all information on how to do this. Please search the internet to see if you can find information about how you to run vGPU on Xen.
+
+It is not very hard; just requires some dedication.
